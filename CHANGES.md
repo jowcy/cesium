@@ -21,6 +21,8 @@ Change Log
 * Fixed token issue in `ArcGisMapServerImageryProvider`.
 * `ImageryLayerFeatureInfo` now has an `imageryLayer` property, indicating the layer that contains the feature.
 * Added `BoxOutlineGeometry.fromAxisAlignedBoundingBox` and `BoxGeometry.fromAxisAlignedBoundingBox` functions.
+* Updated `requirejs` from 2.1.9 to 2.1.20.
+* Updated `almond` from 0.2.6 to 0.3.1.
 
 ### 1.14 - 2015-10-01
 
